@@ -3,8 +3,8 @@
 **Multifaceted Developer | Problem Solver | Tech Enthusiast**
 
 - **Current Role:** Solution designer, fullstack developer and the swiss IT knife at a woven wire meshes production company.
-- **Skills:** Full-stack development (mainly Next.js, Laravel, MySQL), 3D rendering & animation (three.js, some Babylon.js), WebAssembly (EMScripten), CAD modeling (SolidWorks), physics engines (Ammo, Rapier), design (graphics, vectors, publishing, UI), copywriting.
-- **Projects:** Invented, designed and developed a comprehensive app from scratch with detailed procedural 3d product configurator for managing some production and office tasks, including b2b platfrom for orders and quotations, automated workflows. Responsible for the entire lifecycle from data gathering interviews with production workers and management, architecture and technology selection to development & deployment.
+- **Skills:** Full-stack development (mainly Next.js, Laravel, MySQL), 3D rendering & animation (three.js/react-three-fiber, some babylon.js), WebAssembly (EMScripten), CAD modeling (SolidWorks), physics engines, design (graphics, vectors, publishing, UI), copywriting.
+- **Projects:** Invented, designed and developed a comprehensive app from scratch with detailed procedural 3d product configurator for managing production and office tasks, including b2b platfrom for orders and quotations, automated workflows. Responsible for the entire lifecycle from data gathering through interviews with production line workers and management, architecture and technology selection to development & deployment.
 - **Focus Areas:** 
   - 3D rendering and performance optimization
   - Software architecture

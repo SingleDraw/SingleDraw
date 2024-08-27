@@ -2,19 +2,18 @@
 
 **Multifaceted Developer | Problem Solver | Tech Enthusiast**
 
-- **Current Role:** Solution designer, fullstack developer at a woven wire meshes production company.
-- **Skills:** Full-stack development (mainly Next.js, Laravel, MySQL), 3D rendering & animation (three.js/react-three-fiber, some babylon.js), WebAssembly (EMScripten), CAD modeling (SolidWorks), physics engines, design (graphics, vectors, publishing, UI), copywriting.
-- **Projects:** Invented, designed and developed a comprehensive app from scratch with detailed procedural 3d product configurator for managing production and office tasks, including b2b platfrom for orders and quotations, automated workflows. Responsible for the entire lifecycle from data gathering through interviews with production line workers and management, architecture and technology selection to development & deployment.
+- **Current Role:** Fullstack developer at a woven wire meshes production company / quarry and mining industry.
+- **Skills:** Full-stack development (mainly Next.js, Laravel & MySQL, Node.js), 3D rendering & animation (Three.js / react-three-fiber), WebAssembly (EMSCripten), CAD modeling (SolidWorks), physics engines (Ammo, Babylon), design (rasters, vectors, publishing, UI), content creation.
+- **Projects:** For last several years i was focused on invented, designing and developing from scratch services for the production company i work for such as very granular and detailed procedural 3d product configurator for our customers and employees, automation of some office and production tasks such as creating documents, material and time cost calculations, production drawings generated from orders, b2b platfrom for managing orders and quotations, discount and pricing strategies implementations. Responsible for the entire lifecycle from data gathering through interviews with production line workers and management, architecture and technology selection to development & deployment.
 - **Focus Areas:** 
   - 3D rendering and performance optimization
   - Software architecture
-  - Building custom libs for three.js in my free time
   - GLSL and advanced rendering algorithms
-  - Developing a 3D simulator for screening processes in mining and quarry industries (side hobby project)
-- **Current Technologies:** JS/TS(Vanilla), React/Next.js, Php/Laravel, MySQL, Three.js, Node.js, Babylon.js, Docker
+  - Automation
+- **Current Technologies:** React/Next.js, JS/TS(Vanilla), PhP/Laravel, Emscripten, MySQL, Three.js, Docker, Ansible, Node.js, Babylon.js
 - **Continuous Learning:** Always exploring new technologies and techniques to enhance my skill set.
-- **Collaborations:** Open to discussing 3D rendering, performance optimization, and innovative app development.
-- **Fun Fact:** When I'm not coding or reading, I enjoy being a luthier and woodcrafter, playing piano, and taking care of my pet rats.
+- **Collaborations:** Open to discussing 3D rendering, performance optimization, automation and innovative app development.
+- **Fun Fact:** When I'm not coding or reading, I enjoy being a luthier and woodcrafter, playing piano, and taking care of my beloved pet rats.
 - **Contact:** Feel free to reach out via [email](mailto:truckdriverbuck@gmail.com).
 
 <!--

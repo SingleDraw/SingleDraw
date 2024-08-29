@@ -21,8 +21,8 @@
       "
    />
 </center>
-<font family="Calibri">
-# Hi there! I'm Kamil 👋
+<font family="Calibri">  
+<h2># Hi there! I'm Kamil 👋</h2>
 
 **Multifaceted Developer | Problem Solver | Tech Enthusiast**
 

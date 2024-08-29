@@ -8,7 +8,16 @@
    z-index: -2;
    "></div>
 <center>
-   <img src="static/gh_banner.jpg" back='#030303' width="400" height="316"/>
+   <img 
+      src="static/gh_banner.jpg" 
+      back='#030303' 
+      width="100%" 
+      style="
+         position: absolute;
+         top:0px;
+         left: 0px;
+      "
+   />
 </center>
 
 # Hi there! I'm Kamil 👋

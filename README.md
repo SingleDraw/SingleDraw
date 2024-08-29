@@ -1,3 +1,16 @@
+<div style="
+   background-color: #191A21; 
+   position: fixed; 
+   top: 0px; 
+   left: 0px; 
+   right: 0px; 
+   bottom: 0px; 
+   z-index: -2;
+   "></div>
+<center>
+   <img src="static/gh_banner.jpg" back='#030303' width="400" height="316"/>
+</center>
+
 # Hi there! I'm Kamil 👋
 
 **Multifaceted Developer | Problem Solver | Tech Enthusiast**

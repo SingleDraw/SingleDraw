@@ -1,6 +1,8 @@
 <div style="
    background-color: #191A21; 
    position: fixed; 
+   width: 100%;
+   height: 100%;
    top: 0px; 
    left: 0px; 
    right: 0px; 

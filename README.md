@@ -21,7 +21,7 @@
       "
    />
 </center>
-
+<font family="Calibri">
 # Hi there! I'm Kamil 👋
 
 **Multifaceted Developer | Problem Solver | Tech Enthusiast**
@@ -40,6 +40,7 @@
 - **Fun Fact:** When I'm not coding or reading, I enjoy being a luthier and woodcrafter, playing piano, and taking care of my beloved pet rats.
 - **Contact:** Feel free to reach out via [email](mailto:truckdriverbuck@gmail.com).
 
+</font>
 <!--
 **SingleDraw/SingleDraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

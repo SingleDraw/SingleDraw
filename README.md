@@ -27,7 +27,7 @@
 **Fullstack | Tech Enthusiast**
 
 - **Current Role:** Fullstack dev at a woven wire meshes production company / quarry and mining industry.
-- **Skills:** Typescript (Next, Node, React, Nest), strong 3D rendering & animation exp (Three.js / react-three-fiber), WebAssembly (EMSCripten), Automation (Ansible, Bash Python), CAD modeling (SolidWorks), physics engines (Ammo, Babylon), design (rasters, vectors, publishing, UI).
+- **Skills:** Typescript (Next, Node, React, Nest), strong 3D rendering & animation exp (Three.js / react-three-fiber), WebAssembly (EMSCripten), Automation (Ansible, Bash, Python, Terra), CAD skills (SolidWorks), physics engines (Ammo, Babylon), design (rasters, vectors, publishing, UI).
 - **Projects:** For last several years i was focused on developing solutions / services for our production company, b2b area. Responsible for the entire lifecycle from data gathering through interviews with production line workers and management, selection of architecture and technology to development & final deployment.
 - **Focus Areas:** 
   - 3D rendering and performance optimization

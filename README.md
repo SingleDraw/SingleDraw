@@ -26,16 +26,15 @@
 
 **Fullstack | Tech Enthusiast**
 
-- **Current Role:** Fullstack dev at a woven wire meshes production company / quarry and mining industry.
-- **Skills:** Typescript (Next, Node, React, Nest), strong 3D rendering & animation exp (Three.js / react-three-fiber), WebAssembly (EMSCripten), Automation (Ansible, Bash, Python, Terra), CAD skills (SolidWorks), physics engines (Ammo, Babylon), design (rasters, vectors, publishing, UI).
+- **Current Role:** Systems Engineer & Dev at a woven wire meshes production company / quarry and mining industry.
+- **Skills:** Systems Architecture, Pipes & Flows, Typescript (Next, Node, React, Nest), Python ML/AI, BigData tools (op-premise & azure) strong 3D rendering & animation exp (Three.js / react-three-fiber) & performance optimization, WebAssembly (EMSCripten), Automation & CICD (Ansible, Bash, Python, Terraform, GH), CAD skills (SolidWorks), physics engines (Ammo, Babylon), graphics design (rasters, vectors, publishing tools, UI).
 - **Projects:** For last several years i was focused on developing solutions / services for our production company, b2b area. Responsible for the entire lifecycle from data gathering through interviews with production line workers and management, selection of architecture and technology to development & final deployment.
 - **Focus Areas:** 
+  - Big Data / ML / Automation
   - 3D rendering and performance optimization
-  - Big Data / ML
   - GLSL and advanced rendering algorithms
-  - Automation
-- **Current Technologies:** <b>TypeScript/JavaScript (Next.js/React/Node.js/Three.js/R3F/Vanilla), PHP (Laravel), WebAssembly(Emscripten), MySQL, Bash, Docker, Ansible</b>
-- **Continuous Learning:** Always exploring new technologies and techniques to enhance my skill set, currently diving into Big Data Stacks and Cloud services.
+- **Current Technologies:** <b>TypeScript (Next.js/React/Node.js/Three.js/R3F/Vanilla), Python (ML/AI/BigData), BigData Tools, Databases and Distributed Computing (Kafka, Spark, Airflow, Delta, Trino, Redis, Celery etc.), CICD, Bash, Docker, Ansible, PHP, WebAssembly(Emscripten),</b>
+- **Continuous Learning:** Always exploring new technologies and techniques. I like to stay up to date with things.
 - **Collaborations:** Open to discussing 3D rendering, performance optimization, automation.
 - **Fun Fact:** Rat lover.
 - **Contact:** Feel free to reach out via [email](mailto:truckdriverbuck@gmail.com).

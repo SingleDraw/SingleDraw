@@ -22,15 +22,15 @@
    />
 </center>
 <font family="Calibri">  
-<h2>Hi there! I'm Kamil 👋</h2>
+<h2>Hi, I'm Kamil</h2>
 
-**Fullstack | Tech Enthusiast**
+**Software Dev**
 
 - **Current Role:** Software Engineer at a woven wire meshes production company / quarry and mining industry.
 - **Skills:** Systems Design, Software Dev, Typescript (Next, React, Nest), Python ML/AI (ML, NLP), Data Engineering, strong 3D rendering & animation exp (Three.js / react-three-fiber) & performance optimization, WebAssembly (EMSCripten), Automation & CICD (Ansible, Bash, Terraform, GH), CAD skills (SolidWorks), physics engines (Ammo, Babylon), graphics design (rasters, vectors, publishing tools, UI).
 - **Projects:** For last several years i was focused on developing solutions / services for our production company, b2b area. Responsible for the entire lifecycle from data gathering through interviews with production line workers and management, selection of architecture and technology to development & final deployment.
 - **Focus Areas:**
-  - System Architecture & Design
+  - System Architecture & Design, Orchestration
   - Data / ML / Automation
   - 3D rendering and performance optimization
   - GLSL and advanced rendering algorithms
